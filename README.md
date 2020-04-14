@@ -1,4 +1,5 @@
-# Landmark Detection & Robot Tracking (SLAM)
+# Computer Vision Nanodegree Udacity
+## Landmark Detection & Robot Tracking (SLAM)
 
 ## Project Overview
 
